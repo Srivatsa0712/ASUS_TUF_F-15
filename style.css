@@ -1,0 +1,31 @@
+body{
+    background-color: #e6ffff;
+}
+
+.Picture{
+    background-color: #ccffcc;
+    border : 5px solid rgb(196, 128, 128);
+}
+
+.Heading{
+    text-align: center;
+    color: #ff0066;
+}
+
+.Desc{
+    font-size: 28px;
+}
+
+h3{
+    font-size: 23px;
+    color: #ff6666;
+}
+
+p{
+    line-height: 1.54;
+    font-family: sans-serif;
+}
+
+hr{
+    border-top: 2px solid brown;
+}
